@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Brandon Tennyson</title>
-    <link>https://example.com/about/</link>
+    <link>https://branten.github.io/BrandonTennysonPortfolio/about/</link>
     <description>Recent content in About on Brandon Tennyson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://example.com/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://branten.github.io/BrandonTennysonPortfolio/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
