@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Science Portfolio on Brandon Tennyson</title>
+    <link>https://example.com/</link>
+    <description>Recent content in Computer Science Portfolio on Brandon Tennyson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 May 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Currency Converter</title>
+      <link>https://example.com/post/chapter-43/</link>
+      <pubDate>Fri, 01 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-43/</guid>
+      <description>This program was a Group Project among 3 other students where a currency converter was created with multiple development plans set in place as well as version control. The program has an interface that displays the different currencies that have been imported from the internet into a scroll box and could convert any value to any value while giving the correct ratio.
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>ThreeJS</title>
+      <link>https://example.com/post/chapter-42/</link>
+      <pubDate>Mon, 08 Jul 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-42/</guid>
+      <description>This program uses ThreeJS to animate and create 3d objects in a virtual space with different types of textures and lighting
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Jogl objects</title>
+      <link>https://example.com/post/chapter-38/</link>
+      <pubDate>Fri, 28 Jun 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-38/</guid>
+      <description>This program uses JAVA to create 3D objects in a virtual space with the use of Jogl
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Image Template</title>
+      <link>https://example.com/post/chapter-37/</link>
+      <pubDate>Thu, 13 Jun 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-37/</guid>
+      <description>This program uses JAVA to create image templates from an array type structure to create an overall image
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Ship Manager</title>
+      <link>https://example.com/post/chapter-41/</link>
+      <pubDate>Thu, 09 May 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-41/</guid>
+      <description>This program uses JAVA to incorporate a potential worldwide ship management program that has a database on every type of ship as well as seaports and even graphs how long it takes for ships to get from port to port
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Graphed LinkedList</title>
+      <link>https://example.com/post/chapter-39/</link>
+      <pubDate>Sat, 09 Mar 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-39/</guid>
+      <description>This program uses JAVA to create and graph linked lists
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>BST GUI</title>
+      <link>https://example.com/post/chapter-36/</link>
+      <pubDate>Fri, 22 Feb 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-36/</guid>
+      <description>This program uses JAVA to create a binary search tree with the added implementation of a GUI
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Postfix expression</title>
+      <link>https://example.com/post/chapter-40/</link>
+      <pubDate>Sun, 10 Feb 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-40/</guid>
+      <description>This program uses JAVA to solve postfix expressions correctly
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Employee</title>
+      <link>https://example.com/post/chapter-35/</link>
+      <pubDate>Sun, 02 Sep 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-35/</guid>
+      <description>This program uses JAVA to simulate an employee database with different jobs and traits for each employee, employees can be added and removed and modified in any way.
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>DijAlgorythm</title>
+      <link>https://example.com/post/chapter-34/</link>
+      <pubDate>Tue, 15 May 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-34/</guid>
+      <description>This program uses JAVA to demonstrate the usage and effectiveness of dijkstra&amp;rsquo;s algorithm
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>FindNum</title>
+      <link>https://example.com/post/chapter-23/</link>
+      <pubDate>Mon, 07 May 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-23/</guid>
+      <description>This program uses JAVA to take in multiple values and finds the sum, average highest, lowest, number of even/odd numbers in a while loop
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Binary Search Tree</title>
+      <link>https://example.com/post/chapter-26/</link>
+      <pubDate>Tue, 24 Apr 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-26/</guid>
+      <description>This program uses JAVA to organize arrays in a binary search tree in an organized evenly
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Linked List</title>
+      <link>https://example.com/post/chapter-25/</link>
+      <pubDate>Thu, 05 Apr 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-25/</guid>
+      <description>This program uses JAVA as an example for a demonstration on how a linked list works
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Maze</title>
+      <link>https://example.com/post/chapter-22/</link>
+      <pubDate>Mon, 12 Mar 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-22/</guid>
+      <description>This program uses JAVA to simulate a maze game where the user enters WASD commands to navigate while the program uses a linked list
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Car Rental Service</title>
+      <link>https://example.com/post/chapter-30/</link>
+      <pubDate>Wed, 06 Dec 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-30/</guid>
+      <description>This program uses JAVA to make a complete car rental program with the ability to chose different types of vehicles as well as rates and cost as well as inventory management.
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>User Accounts</title>
+      <link>https://example.com/post/chapter-29/</link>
+      <pubDate>Wed, 25 Oct 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-29/</guid>
+      <description>This program uses JAVA to simulate a basic login page where a username and password are needed. the program also accepts new users and different levels of accounts
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Abstract classes</title>
+      <link>https://example.com/post/chapter-27/</link>
+      <pubDate>Tue, 10 Oct 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-27/</guid>
+      <description>This program uses JAVA to demonstrate abstract classes and creating objects from them
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Stacks</title>
+      <link>https://example.com/post/chapter-32/</link>
+      <pubDate>Tue, 26 Sep 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-32/</guid>
+      <description>This program uses JAVA to demonstrate the use of stacks and being able to search them
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Temperature converter</title>
+      <link>https://example.com/post/chapter-33/</link>
+      <pubDate>Tue, 19 Sep 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-33/</guid>
+      <description>This program uses JAVA to convert various temperatures
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Linear Measure</title>
+      <link>https://example.com/post/chapter-31/</link>
+      <pubDate>Mon, 11 Sep 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-31/</guid>
+      <description>This program uses JAVA and demonstrated how objects can be used and referenced and changed within a class. all while calculating linear measure
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Drake Equation</title>
+      <link>https://example.com/post/chapter-28/</link>
+      <pubDate>Thu, 07 Sep 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-28/</guid>
+      <description>This program uses JAVA to demonstrate the drake Equation
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Graph Function</title>
+      <link>https://example.com/post/chapter-17/</link>
+      <pubDate>Wed, 03 May 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-17/</guid>
+      <description>This program uses JAVA to take certain functions and graph them onto a GUI while displaying the according information.
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Company Employee Management</title>
+      <link>https://example.com/post/chapter-13/</link>
+      <pubDate>Tue, 25 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-13/</guid>
+      <description>This program uses JAVA to keep track of a companies employees such as their name as well as their salary, hours worked, etc. this program is a great example of inheritance
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Bank Account</title>
+      <link>https://example.com/post/chapter-12/</link>
+      <pubDate>Mon, 17 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-12/</guid>
+      <description>This program uses JAVA to simulate a bank account as well as demonstrate derived classes. this program contains checking and savings account with full control of both.
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Two Dimensional Ragged Array</title>
+      <link>https://example.com/post/chapter-19/</link>
+      <pubDate>Thu, 30 Mar 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-19/</guid>
+      <description>This program uses JAVA demonstrate how a two Dimensional ragged array is made
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Property Management</title>
+      <link>https://example.com/post/chapter-20/</link>
+      <pubDate>Tue, 07 Mar 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-20/</guid>
+      <description>This program uses JAVA to create a property management software that takes in information on new property and creates objects from them and then overall adds them into a searchable database GUI
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>GradeBook</title>
+      <link>https://example.com/post/chapter-24/</link>
+      <pubDate>Thu, 02 Mar 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-24/</guid>
+      <description>This program uses JAVA to simulate a gradebook program where the program calculates the highest and lowest score and displays the average score to the user
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>GUI practice</title>
+      <link>https://example.com/post/chapter-15/</link>
+      <pubDate>Fri, 24 Feb 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-15/</guid>
+      <description>This program uses JAVA FX to demonstrate how GUI elements are implemented
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Toy Recommender program</title>
+      <link>https://example.com/post/chapter-14/</link>
+      <pubDate>Tue, 14 Feb 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-14/</guid>
+      <description>This program uses JAVA to recommend certain toys based off of the baby&amp;rsquo;s age group
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>TV Remote</title>
+      <link>https://example.com/post/chapter-21/</link>
+      <pubDate>Tue, 14 Feb 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-21/</guid>
+      <description>This program uses JAVA to simulate a tv remote control that has basic features.
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Movie</title>
+      <link>https://example.com/post/chapter-18/</link>
+      <pubDate>Tue, 07 Feb 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-18/</guid>
+      <description>This program uses JAVA to take in data on a movie such as ratings, tickets sold, movie title and uses the toString method to display the information.
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Factorial Approximation</title>
+      <link>https://example.com/post/chapter-16/</link>
+      <pubDate>Thu, 26 Jan 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-16/</guid>
+      <description>This program uses JAVA to take a user input and will calculate the factorial Approximation
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Mail Office</title>
+      <link>https://example.com/post/chapter-8/</link>
+      <pubDate>Wed, 04 May 2016 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-8/</guid>
+      <description>This program uses JAVA to take in a user input of mail and sorts them into an array where it is sorted by the address
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Ship Database</title>
+      <link>https://example.com/post/chapter-9/</link>
+      <pubDate>Sun, 17 Apr 2016 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-9/</guid>
+      <description>This program uses JAVA to take in a user input for a number of ships and places them into a searchable database based off of the parameters of the ship, such as name, build year, and displays the information.
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Coin Game</title>
+      <link>https://example.com/post/chapter-5/</link>
+      <pubDate>Sun, 03 Apr 2016 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-5/</guid>
+      <description>This program uses JAVA create a game where the program will flip a virtual coin and the user can place a bet with virtual money on what side of the coin is face up. this program is a demonstration for using a randomiser in java as well as testing for different outcomes for a situation.
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Drivers License</title>
+      <link>https://example.com/post/chapter-6/</link>
+      <pubDate>Tue, 08 Mar 2016 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-6/</guid>
+      <description>This program uses JAVA to create a virtual test with an answer key, the program takes in a parameter of answers from a student and compares and grades the students answers based off of the answer key.
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Test Grader</title>
+      <link>https://example.com/post/chapter-11/</link>
+      <pubDate>Mon, 07 Mar 2016 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-11/</guid>
+      <description>This program uses JAVA to grade a test based off of the students answer. this program is different from the drivers license program because the user in inputting the answers themselves, simulating a student who is taking the test. The program also grades the test
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Meter/Feet converter</title>
+      <link>https://example.com/post/chapter-7/</link>
+      <pubDate>Tue, 23 Feb 2016 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-7/</guid>
+      <description>This program uses JAVA to take a user input and convert it from feet to meters or meters to feet
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Slot Machine</title>
+      <link>https://example.com/post/chapter-10/</link>
+      <pubDate>Mon, 15 Feb 2016 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-10/</guid>
+      <description>This program uses JAVA to simulate a slot machine. It gives the user the option for how much money they would like to use for the slot machine and then the game will start and depending on the symbols on each wheel the user will gain money or lose money based off of the outcome. The user will then be given a prompt to play again.
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Future Investment</title>
+      <link>https://example.com/post/chapter-4/</link>
+      <pubDate>Thu, 04 Feb 2016 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-4/</guid>
+      <description>This program uses JAVA to calculate a future investment value. By user input the program will calculate a future investment value with the initial investment amount, interest rate, and years past.
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Interest rate</title>
+      <link>https://example.com/post/chapter-3/</link>
+      <pubDate>Sat, 11 Apr 2015 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-3/</guid>
+      <description>This program uses C++ to determine a future value of an item with an interest rate. By taking in a user input for a value and interest rate the program will calculate the future value of that item over a given number of months.
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Check Deposit</title>
+      <link>https://example.com/post/chapter-2/</link>
+      <pubDate>Thu, 12 Mar 2015 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-2/</guid>
+      <description>This program uses C++ to simulate a check deposit while testing for an overdrawn account as well as testing for a negative number of checks. This program will also display the balance as well as calculate a bank fee with information displayed to the user
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Monthly payment plus interest</title>
+      <link>https://example.com/post/chapter-1/</link>
+      <pubDate>Sun, 01 Mar 2015 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-1/</guid>
+      <description>This program uses C++ to calculate monthly payments for loans from a number given from the user, the program can also calculate for interest and provide a monthly payment
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://example.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/contact/</guid>
+      <description>E-Mail Brandon.Tennyson@gmail.com
+Phone 301-775-3943</description>
+    </item>
+    
+  </channel>
+</rss>
